@@ -1,5 +1,5 @@
 : 
-  CALCHEP=  
+  CALCHEP=/home/restrepo/prog/2016/micromegas_feyrules/micromegas/CalcHEP_src 
 #---------------
 
 lib=$CALCHEP/lib
